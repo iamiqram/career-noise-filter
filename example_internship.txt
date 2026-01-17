@@ -1,0 +1,27 @@
+Backend Engineering Intern - Summer 2026
+
+About the Role:
+We're looking for a backend engineering intern to join our API development team. You'll work on building scalable microservices, optimizing database queries, and contributing to our cloud infrastructure.
+
+Requirements:
+- Strong programming skills in Python or Java
+- Understanding of REST APIs and HTTP protocols
+- Experience with relational databases (PostgreSQL preferred)
+- Familiarity with Docker and containerization
+- Knowledge of version control (Git)
+- Understanding of data structures and algorithms
+- Bonus: Experience with AWS, Redis, message queues
+
+What You'll Learn:
+- Building production-grade APIs
+- Distributed systems design
+- Database optimization techniques
+- CI/CD pipelines
+- Kubernetes orchestration
+- System design principles
+
+Nice to Have:
+- Open source contributions
+- Personal projects demonstrating backend skills
+- Understanding of microservices architecture
+- GraphQL experience
